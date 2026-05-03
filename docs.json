@@ -21,6 +21,23 @@
   "navigation": {
     "tabs": [
       {
+        "tab": "Docs",
+        "groups": [
+          {
+            "group": "Overview",
+            "pages": ["docs/index"]
+          },
+          {
+            "group": "Getting started",
+            "pages": ["docs/getting-started/installation"]
+          },
+          {
+            "group": "Guides",
+            "pages": ["docs/guides/overview"]
+          }
+        ]
+      },
+      {
         "tab": "Onboarding",
         "groups": [
           {
