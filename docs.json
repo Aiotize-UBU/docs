@@ -150,6 +150,15 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Docs",
+        "groups": [
+          {
+            "group": "Overview",
+            "pages": ["docs/index"]
+          }
+        ]
       }
     ]
   },
