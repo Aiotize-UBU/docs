@@ -45,6 +45,10 @@
             "pages": ["index"]
           },
           {
+            "group": "Getting started",
+            "pages": ["docs/getting-started/installation"]
+          },
+          {
             "group": "Your first days",
             "pages": [
               "onboarding/first-day",
