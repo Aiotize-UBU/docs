@@ -1,6 +1,6 @@
 ---
 title: "Installation"
-description: "How to set up your environment to contribute Markdown docs."
+description: "Clone the docs repository, install the Mintlify CLI, and preview Markdown documentation locally before opening a pull request with your changes."
 ---
 
 # Installation

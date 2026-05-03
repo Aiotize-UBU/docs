@@ -1,6 +1,6 @@
 ---
 title: "API Reference"
-description: "Reference docs authored in Markdown."
+description: "Document API endpoints, request and response schemas, and SDK references in plain Markdown for easy contribution and version control."
 ---
 
 # API Reference

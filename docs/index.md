@@ -1,6 +1,6 @@
 ---
 title: "Docs Index"
-description: "Landing page for Markdown-based documentation uploads."
+description: "Landing page for Markdown-based documentation, including getting started instructions, how-to guides, and API reference materials."
 ---
 
 # Documentation Index

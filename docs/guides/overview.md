@@ -1,6 +1,6 @@
 ---
 title: "Guides Overview"
-description: "Index of how-to guides authored in Markdown."
+description: "Browse and contribute how-to guides authored as plain Markdown files, including required YAML frontmatter and conventions for new entries."
 ---
 
 # Guides Overview
