@@ -150,6 +150,15 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Reference",
+        "groups": [
+          {
+            "group": "API",
+            "pages": ["docs/reference/api"]
+          }
+        ]
       }
     ]
   },
